@@ -102,4 +102,4 @@ async def serverinfo(ctx):
     embed.set_thumbnail(url=ctx.message.server.icon_url)
     await bot.say(embed=embed)
 
-bot.run("NDgwMzkzOTg2MjA1NDE3NDcy.Dlt4Ow.qFr0S4_wh08Rx9EWkkNHeiGzyPo")
+bot.run("TOKEN")
